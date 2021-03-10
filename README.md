@@ -1,4 +1,4 @@
-### Hi - I'm James
+### Hi - I'm James 👋
 ### Head of Technology at COOK • Chartered IT Professional (CITP) • Enterprise Architect/Software Engineer • Tech Evangelist
 
 
@@ -6,7 +6,7 @@ I'm a business leader and enterprise architect with a proven track record and ha
 
 As well as being an exceptional communicator with ability to convey technical concepts to a non-technical audience and manage projects big and small I also have wide ranging technical skills including C#, .Net Core, ASP.NET MVC, HTML, (S)CSS, Javascript, Typescript, SQL (MSSQL and MySQL), Entity Framework, React/Redux, Flutter/Dart, Microsoft Azure including CosmosDB/Service Bus/Azure Functions/Key Vault/App Configuration, WPF and Windows Forms, Git, Mercurial. I also have a detailed creative eye with the ability to use Adobe Creative Cloud tools such as Photoshop, Illustrator, XD and InDesign. 
 
-##Please visit my LinkedIn profile for more https://www.linkedin.com/in/jamesecwalker/
+### Please visit my LinkedIn profile for more https://www.linkedin.com/in/jamesecwalker/
 
 (Pronouns: He/Him)
 
