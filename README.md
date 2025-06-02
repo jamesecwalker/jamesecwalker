@@ -8,7 +8,6 @@ As well as being an exceptional communicator with ability to convey technical co
 
 ### Please visit my LinkedIn profile for more https://www.linkedin.com/in/jamesecwalker/
 
-(Pronouns: He/Him)
 
 <!--
 **jamesecwalker/jamesecwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
