@@ -1,5 +1,5 @@
 ### Hi - I'm James 👋
-### Head of Technology at COOK • Chartered IT Professional (CITP) • Enterprise Architect/Software Engineer • Tech Evangelist
+### Head of Technology at COOK • Chartered Engineer (CEng) • Chartered IT Professional (CITP) • Enterprise Architect/Software Engineer • Tech Evangelist
 
 
 I'm a business leader and enterprise architect with a proven track record and hands-on software engineering & entrepreneurial skillset. I'm currently working at COOK Trading heading up the Technology and Development team that designs, manages and builds of our e-commerce website (www.cookfood.net) as well as all our custom systems which include, to name just a few, warehouse stock and order processing, gift card management, van tracking & routing and the main customer database.
